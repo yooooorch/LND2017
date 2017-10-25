@@ -1,0 +1,53 @@
+li a {
+    border-radius:7px;
+display:block;
+    color:black;
+    text-align:center;
+    padding:10px 12px;
+
+    text-decoration:none;
+}
+li a:hover{
+background-color:yellow;
+   
+
+    box-shadow: 4px 4px 5px orange;
+
+
+}
+
+ul {
+    
+   
+    list-style-type:none;
+    background-color:aqua;
+    display:inline;
+     margin: 0px;
+     padding: 0px;
+    overflow: hidden;
+   
+} 
+li {
+    
+    border-right: 6px solid white;
+    display:inline;
+     float: left;
+  
+     
+    
+}
+
+ a { 
+     display: block;
+    
+    background-color:aqua;
+} 
+
+li:last-child {
+
+
+}
+
+    border-radius:10px;
+
+
